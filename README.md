@@ -5,11 +5,11 @@ Program encoding plain text to base 64 code. Learn more: https://en.wikipedia.or
 ### Building project
 Using **Makefile**:
 ```sh
-cd A-pong
+cd Base64
 make
 ```
 Clearing:
 ```sh
-cd A-pong
+cd Base64
 make clear
 ```
